@@ -1,0 +1,108 @@
+body{
+  margin: 0;
+    background-image: url(image/close-up-roasted-coffee-beans.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100vh;
+    font-family: sans-serif;
+    
+    
+}
+.menu{
+    background-color:#DEB887 ;
+    height: 690px; ;
+    width: 490px;
+    position: absolute;
+    left: 395px;
+    top: 105px;
+}
+h1{
+    font-family: Impact, serif;
+  font-weight: 900;
+  font-style: normal;
+  text-align: center;
+}
+.header p{
+    text-align: center;
+    font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  text-align: center;
+}
+.al{
+    height: 3px;
+    background-color:#A52A2A ;
+    width: 90%;
+    Margin: 0 auto
+}
+i{
+  font-size:20px ;
+  position:absolute;
+  left: 245px;
+  top: 180px;
+}
+.coffee{
+  position: relative;
+}
+.name{
+  position: absolute;
+  top: 15px;
+}
+
+ul{
+  list-style: none;
+}
+.price{
+  position: absolute;
+  top: 15px;
+  left: 400px;
+}
+.des{
+  position: relative;
+}
+
+.des h1{
+  position: absolute;
+  top: 150px;
+  left: 190px;
+}
+
+.des i{
+  position: absolute;
+  top: 210px;
+}
+
+.na{
+  position: absolute;
+  top: 230px;
+}
+
+.pr{
+  position: absolute;
+  top: 230px;
+  left: 400px;
+}
+.al2{
+  height: 3px;
+    background-color:#A52A2A ;
+    width: 90%;
+    Margin: 0 auto;
+    position: absolute;
+    top:550px;
+    left: 25px;
+
+}
+
+.footer a{
+  position: relative;
+  top: 380px;
+  left: 190px;
+  color: black;
+}
+.footer p{
+  position: relative;
+  top: 385px;
+  left: 166px;
+  
+}
